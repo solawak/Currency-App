@@ -26,4 +26,5 @@ App is divident into two parts:
 # Authors
 
 Katarzyna Solawa - https://github.com/solawak
+
 Adrianna Grudzień - https://github.com/grudziena
